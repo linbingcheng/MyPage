@@ -447,6 +447,12 @@ a:hover, a:focus{
         width:1170px;
     }
 
+    #home {
+        min-height: 900px;
+    }
+    #home .container{
+        padding-top: 120px;
+    }
 }
 
 @media (max-width:1499px){
