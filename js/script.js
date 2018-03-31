@@ -70,9 +70,9 @@ $(document).ready(function(){
                 lineCap:'butt',
                 scaleColor: false,
                 trackColor: 'transparent',
-                barColor: $('.main-color').css('color'),
-                lineWidth: 5,
-                easing:'easeOutQuad'
+                barColor: "#00CCCB",
+                lineWidth: 15
+                //easing:'easeOutQuad'
             });
         });
     },{offset:'80%'});
