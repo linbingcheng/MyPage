@@ -1535,7 +1535,7 @@ a:hover, a:focus{
 
 @media (max-width:767px){
 
-    .list_right .ev_text_event h3,.list_right .ev_text_event p,.list_left .ev_text_odd h3,.list_left .ev_text_odd p{padding-left: 50px;}
+    .list_right .ev_text_event h3,.list_right .ev_text_event p,.list_left .ev_text_odd h3,.list_left .ev_text_odd p{padding-left: 30px;}
 
 
     .big-padding{
