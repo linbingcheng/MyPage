@@ -151,6 +151,7 @@ a:hover, a:focus{
 -------------------------------------------------- */
 
 #home{
+    opacity:0.8;
     min-height:480px;
     margin-bottom:0;
     background: url(../images/main-bg3.jpg) center bottom;
@@ -165,6 +166,7 @@ a:hover, a:focus{
 }
 
 #home .container{
+    opacity:1;
     min-height:480px;
 }
 
